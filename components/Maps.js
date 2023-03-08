@@ -13,7 +13,7 @@ const Maps = () => {
         </h1>
 
         <h1 className="  text-white font-bold text-4xl">
-          Juja square, Nairobi, Kenya
+          Rupa mall,Eldoret, Kenya
         </h1>
       </section>
       <Map
@@ -27,8 +27,8 @@ const Maps = () => {
           borderRadius: "5px",
         }}
         initialViewState={{
-          latitude: -1.102554,
-          longitude: 37.013193,
+          latitude: 0.5139,
+          longitude: 35.2907,
           zoom: 12,
         }}
         mapboxAccessToken={
@@ -37,8 +37,8 @@ const Maps = () => {
         mapStyle="mapbox://styles/mapbox/streets-v11" // This is the style of the map
       >
         <Marker
-          latitude={-1.102554}
-          longitude={37.013193}
+          latitude={0.5139}
+          longitude={35.2907}
           offsetLeft={-20}
           offsetTop={-10}
         >
