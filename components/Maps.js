@@ -13,7 +13,7 @@ const Maps = () => {
         </h1>
 
         <h1 className="  text-white font-bold text-4xl">
-          HILTON TOWERS, 6TH FLOOR
+          Juja square, Nairobi, Kenya
         </h1>
       </section>
       <Map
@@ -27,8 +27,8 @@ const Maps = () => {
           borderRadius: "5px",
         }}
         initialViewState={{
-          latitude: -1.038757,
-          longitude: 37.083375,
+          latitude: 1.105,
+          longitude: 37.0139,
           zoom: 12,
         }}
         mapboxAccessToken={
@@ -37,8 +37,8 @@ const Maps = () => {
         mapStyle="mapbox://styles/mapbox/streets-v11" // This is the style of the map
       >
         <Marker
-          latitude={-1.034864}
-          longitude={37.073487}
+          latitude={1.105}
+          longitude={37.0139}
           offsetLeft={-20}
           offsetTop={-10}
         >
