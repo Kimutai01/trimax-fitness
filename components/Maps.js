@@ -27,8 +27,8 @@ const Maps = () => {
           borderRadius: "5px",
         }}
         initialViewState={{
-          latitude: 1.105,
-          longitude: 37.0139,
+          latitude: -1.102554,
+          longitude: 37.013193,
           zoom: 12,
         }}
         mapboxAccessToken={
@@ -37,8 +37,8 @@ const Maps = () => {
         mapStyle="mapbox://styles/mapbox/streets-v11" // This is the style of the map
       >
         <Marker
-          latitude={1.105}
-          longitude={37.0139}
+          latitude={-1.102554}
+          longitude={37.013193}
           offsetLeft={-20}
           offsetTop={-10}
         >
