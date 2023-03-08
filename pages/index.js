@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Zero22 Gym Thika</title>
+        <title>Trimax fitness</title>
         <meta
           name="description"
           content="This is a webiste for Zero22 Gym in Thika"
