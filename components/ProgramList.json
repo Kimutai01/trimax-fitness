@@ -1,0 +1,30 @@
+{
+  "programmes": [
+    {
+      "day": "Monday",
+      "exercise": "Cycling",
+      "time": "6:00 pm - 7:00 pm"
+    },
+    {
+      "day": "Tuesday",
+      "exercise": "Stepping",
+      "time": "6:00 pm - 7:00 pm"
+    },
+    {
+      "day": "Wednesday",
+      "exercise": "High Intensity Interval Training",
+      "time": "6:00 pm - 7:00 pm"
+    },
+    {
+      "day": "Thursday",
+      "exercise": "Insanity",
+      "time": "6:00 pm - 7:00 pm"
+    },
+    {
+      "day": "Friday",
+      "exercise": "Zumba",
+      "time": "6:00 pm - 7:00 pm"
+    }
+    
+  ]
+}

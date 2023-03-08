@@ -1,0 +1,22 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Habesha",
+      "latitude": -1.292383,
+      "longitude": 36.779284
+    },
+    {
+      "id": 2,
+      "name": "Inca",
+      "latitude": -1.28085,
+      "longitude": 36.768421
+    },
+    {
+      "id": 3,
+      "name": "Seven SeaFood",
+      "latitude": -1.259951,
+      "longitude": 36.776424
+    }
+  ]
+}
